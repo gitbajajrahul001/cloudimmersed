@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Why Lift & Shift is the Most Misunderstood Cloud Strategy"
+date: 2026-04-09
+categories: cost-optimization
+---
+
 # Why Lift & Shift is the Most Misunderstood Cloud Strategy
 
 Most enterprises think “Lift & Shift” is the safest way to move to cloud.
