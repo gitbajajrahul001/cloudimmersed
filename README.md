@@ -1,15 +1,17 @@
 # Cloud Architecture Journey
 
-Welcome to my enterprise cloud transformation journey.
+This is a real-world simulation of transforming a 5000+ VM enterprise from on-premise to cloud.
 
-This repository documents a real-world simulation of migrating 5000+ VMs from on-prem to cloud, covering:
+## 📚 Sections
 
-- Identity & Governance
-- Network Architecture
-- Compute Strategy
-- Cost Optimization
-- Observability
+- [Identity & Governance](./identity-governance/)
+- [Network Design](./network-design/)
+- [Compute Strategy](./compute-strategy/)
+- [Cost Optimization](./cost-optimization/)
+- [Observability](./observability/)
 
-## Start Here
+---
 
-- [Cost Optimization](./cost-optimization/lift-and-shift-myth.md)
+## 📝 Latest Articles
+
+- [Why Lift & Shift is the Most Misunderstood Cloud Strategy](./cost-optimization/lift-and-shift-myth.md)
